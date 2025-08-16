@@ -1,3 +1,6 @@
-<title>chrisbecca Davis | Web Developer Portfolio</title>
+title: chrisbecca Davis 
+#logo: docs/assets/headshot_circle.png
+Description: Front-end-developer| Web developement projects| design work and coding skills
 <meta name="description" content="Welcome to Chrisbecca Davis portfolio. I am a fornt-end- developer Showcasing web development projects, , and design work.">
-Minimalist / Clean
+#show_download: true
+theme: jekyll-theme-minimal
